@@ -1,4 +1,4 @@
-![logo](https://github.com/Pratik-0911/Pratik-0911/blob/main/Pratik%20Deshmukh.png)
+
 <h1 align="center">Hi 👋, I'm Pratik Deshmukh 👨‍💻</h1>
 <h3 align="center">Coding enthusiast with a passion for data analysis and web development.</h3>
 <img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
