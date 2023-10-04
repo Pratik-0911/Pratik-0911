@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **C++,Python,HTML5,CSS3,JavaScript,ReactJS,NodeJS,PowerBI,MySQL.**
+- 💬 Ask me about **C++,Python,HTML5,CSS3,JavaScript,ReactJS,PowerBI,MySQL.**
 
 - 📫 How to reach me **pratikdeshmukh0911@gmail.com**
 
